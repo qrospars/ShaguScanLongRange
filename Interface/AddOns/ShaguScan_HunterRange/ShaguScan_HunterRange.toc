@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: ShaguScan Hunter Range Filter
+## Notes: Adds hunter max range filter to ShaguScan
+## Dependencies: ShaguScan
+ShaguScan_HunterRange.lua
